@@ -1,83 +1,90 @@
-# Hi, I’m D4rk_Intel 
+# D4rk_Intel
 
 ### Cybersecurity | OSINT & Threat Intelligence Researcher  
 
-I’m a passionate and results-driven cybersecurity professional specialising in Open Source Intelligence (OSINT), threat intelligence and proactive cybersecurity tooling. My Github landscape reflects deep exploration across reconnaissance, intelligence-gathering, automation and dark-web research.
+[![GitHub followers](https://img.shields.io/github/followers/techenthusiast167?label=Followers&style=social)](https://github.com/techenthusiast167)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&logoColor=white)](https://medium.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/tech-enthusiast-669279263)
+[![Twitter](https://img.shields.io/twitter/follow/D4rk_Intel?style=social)](https://x.com/D4rk_Intel)
 
 ---
 
-## What I Do  
+## About Me  
 
-- Lead and execute OSINT investigations — analyzing digital footprints, tracking threat actors, and uncovering exploitable patterns.
-  
-- Build open-source tools to automate reconnaissance, metadata extraction, dark web crawling, and phishing awareness.
-  
-- Collaborate with cybersecurity communities to share insights, contribute to toolsets, and assist organizations in hardening their posture.
-  
-- Continuously learn and adapt — from social-media intelligence techniques to darknet infrastructure mapping and advanced reconnaissance methodologies.
+I am a **Cybersecurity and OSINT Analyst** passionate about transforming open data into actionable intelligence. My work bridges **technical analysis**, **threat research**, and **digital investigations**, empowering individuals and organizations to defend proactively against cyber adversaries.  
+
+With a deep focus on **threat intelligence**, **geolocation analysis**, and **CTF challenge design**, I continuously explore new methods to uncover what hides beneath the surface of the digital landscape.
 
 ---
 
-## Selected Projects Snapshot 
+## Achievements  
 
-Here are some of the key public repositories (click to explore):  
-
-| Project | Focus | Highlights |
-|--------|--------|-----------|
-| **WebRecon Pro** – reconnaissance tool collection | Automated web OSINT tooling | Designed for security researchers & pentesters. |
-| **Phisher** – awareness & education platform | Phishing simulation & training | Build awareness among organisations. |
-| **DeepSearch-** – footprint & Google dork driven OSINT | Digital footprint + dorking automation | Python-based with advanced search operators. |
-| **OSINT-INVESTIGATION-LAB-** – hands-on OSINT training platform | Interactive learning & scenario-based OSINT | Ideal for analysts building skills. |
-| **Twitter_Sleuth** – Twitter account & activity analysis | OSINT module for social media intelligence | Legitimate methods for analysing Twitter profiles. |
-| **GITRECON** – GitHub reconnaissance tool | GitHub footprint analysis and security assessment | Python-based; targets GitHub code, assets, and data exposure. |
-| **DARKWEB_CRAWLER** – dark web OSINT utility | Ethical dark-web reconnaissance & crawling | Tor-based, rate-limited, designed for threat intelligence. |
-| **NAIJA-OSINT-SOCIAL-SEARCH** – localised OSINT tool for Nigeria | Username scanning across 50+ social platforms | Tailored to Nigeria-specific social media landscapes. |
-| **VULSCANNER** – Web application security scanner | Automated web-app scanning and vulnerability discovery | Multi-faceted, designed for pen testers and dev teams. |
-
-> *Note: These are representative highlights — I maintain 20+ active repositories covering a range of OSINT and cyber research domains.*
+- **Partnered with AnyRun** as a Threat Intelligence report writer.
+  
+- **Speaker** on *Image Geolocation Analysis* at the **OSINTAMBITION OSINT Event**.
+  
+- **Organized and built numerous Security & OSINT CTF Challenges** to train investigators and enthusiasts.
+  
+- **1st Place Winner** of the **Zsecurity OSINT CTF Challenge**.
+  
+- **Published Author** on *Medium* — sharing deep-dive research and OSINT methodologies.
+  
+- **Member of the OSMOSIS OSINT Association** – advancing professional open-source intelligence practices globally.
 
 ---
 
-## Technical & Tooling Stack
+## Featured Projects  
 
-- **Languages:** Python (primary), Bash / Shell scripting
-  
-- **OSINT & Recon Tools:** Google dorks, social media mining, metadata extraction, dark/mixed web crawling
-  
-- **Security Tools:** Web-app scanning, vulnerability analysis, GitHub code exposure assessment
-  
-- **Platforms & Environments:** Linux (Kali / Parrot), Tor / Onion networks, GitHub, Cloud hosting
-  
-- **Collaborative Tools:** Git, GitHub Actions (for CI/automation), community repositories & open-source contributions  
+| Project | Description | Focus Area |
+|----------|--------------|-------------|
+| **OSINT-INVESTIGATION-LAB** | Hands-on OSINT training and simulation environment. | OSINT / Threat Analysis |
+| **WebRecon Pro** | Automated reconnaissance and intelligence collection toolkit. | Web OSINT / Recon Automation |
+| **DeepSearch-** | Search engine dorking automation for intelligence gathering. | Google Dorks / Data Mining |
+| **Twitter_Sleuth** | Social media OSINT module for Twitter account analysis. | SOCMINT / Profile Analysis |
+| **Phisher** | Awareness and phishing simulation training platform. | Cyber Awareness / Education |
+| **DarkWeb_Crawler** | Ethical dark web reconnaissance framework. | Dark Web / Threat Intel |
+| **Naija-OSINT-Social-Search** | Username and platform correlation tool tailored for Nigerian cyberspace. | Regional OSINT / Social Analysis |
+| **GitRecon** | GitHub reconnaissance utility for code & data exposure. | Developer OSINT / Risk Detection |
+| **VulScanner** | Web app scanning and vulnerability discovery tool. | Web Security / Recon |
 
----
-
-## Why My Work Matters  
-
-In the rapidly evolving cybersecurity landscape:  
-
-- Organisations increasingly face threats from exposed infrastructure, poor reconnaissance hygiene, and social-engineered vectors.
-  
-- Threat Intelligence and OSINT is no longer just an academic exercise — it’s a first line of defence and proactive intelligence mechanism.
-  
-- By building and sharing tools, I **enable communities** to detect, analyse and mitigate threats before they become breaches.
+> Explore all projects here: [github.com/techenthusiast167](https://github.com/techenthusiast167?tab=repositories)
 
 ---
 
-## Where to Connect  
+## Technical Arsenal  
 
-- GitHub: [https://github.com/techenthusiast167](https://github.com/techenthusiast167)
-  
-- LinkedIn: [linkedin.com/in/tech-enthusiast-669279263](http://linkedin.com/in/tech-enthusiast-669279263)
-  
-- X (formerly Twitter): [@D4rk_Intel](https://x.com/D4rk_Intel)
+**Languages:** Python • Bash • PowerShell  
+**Domains:** OSINT • Threat Intelligence • Cyber Recon • Digital Forensics  
+**Tools:** SpiderFoot • Maltego • Shodan • theHarvester • Google Dorking • FOCA • Tor • AnyRun  
+**Environments:** Kali Linux • Parrot OS • VirtualBox • GitHub Actions • Jupyter  
 
 ---
 
-## Let’s Collaborate 
+## My Vision  
+
+> “The power of OSINT lies not just in finding data, but in connecting dots that others overlook.”  
+
+I believe cybersecurity begins with **awareness** and **visibility**.  
+Through research, public challenges, and open-source tooling, my mission is to make **intelligence accessible**, **educational**, and **action-driven** for everyone in the cyber community.
+
+---
+
+## Connect With Me  
+
+GitHub: [github.com/techenthusiast167](https://github.com/techenthusiast167)  
+
+LinkedIn: [linkedin.com/in/tech-enthusiast-669279263](https://linkedin.com/in/tech-enthusiast-669279263)  
+
+Twitter/X: [@D4rk_Intel](https://x.com/D4rk_Intel)  
+📰 Medium: [Read My Research](https://medium.com)  
+
+---
+
+### Let’s Collaborate  
 
 Whether you’re looking for a dedicated OSINT research collaborator, tool builder, or a cybersecurity advisor — I’m ready. Drop me a message and let's explore how we can elevate security through open source intelligence.
 
 ---
 
 ### Let’s make intelligence accessible, proactive and impactful.  
+
