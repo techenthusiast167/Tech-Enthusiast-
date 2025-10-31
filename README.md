@@ -76,7 +76,8 @@ GitHub: [github.com/techenthusiast167](https://github.com/techenthusiast167)
 LinkedIn: [linkedin.com/in/tech-enthusiast-669279263](https://linkedin.com/in/tech-enthusiast-669279263)  
 
 Twitter/X: [@D4rk_Intel](https://x.com/D4rk_Intel)  
-📰 Medium: [Read My Research](https://medium.com)  
+
+Medium: https://preciousvincentct.medium.com/the-ultimate-guide-to-launching-a-career-in-open-source-intelligence-osint-from-beginner-to-0b3dd09ec88f
 
 ---
 
