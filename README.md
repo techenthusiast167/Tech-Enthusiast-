@@ -1,74 +1,83 @@
-# Hi, I'm Tech Enthusiast 👋
+# Hi, I’m D4rk_Intel - **techenthusiast167 
 
-**CYBERSECURITY** 
+### Cybersecurity | OSINT & Threat Intelligence Researcher  
 
----
-
-## About Me
-
-I am a dedicated cybersecurity analyst with expertise in **Open Source Intelligence (OSINT)**, **threat intelligence**, and **Python scripting**. I focus on uncovering cyber threats, automating security workflows, and delivering actionable insights to protect digital assets.
-
-- 🔍 Skilled in OSINT investigations and data analysis  
-- 🛡️ Experienced in threat intelligence collection and correlation  
-- 🐍 Proficient in Python for security automation and scripting  
-- 📊 Passionate about security research and continuous learning  
+I’m a passionate and results-driven cybersecurity professional specialising in Open Source Intelligence (OSINT), threat intelligence and proactive cybersecurity tooling. My Github landscape reflects deep exploration across reconnaissance, intelligence-gathering, automation and dark-web research.
 
 ---
 
-## 🛠️ Skills & Tools
+## What I Do  
 
-| OSINT Tools         | Threat Intelligence | Programming       | Other Tools & Tech  |
-|---------------------|---------------------|-------------------|---------------------|
-| Maltego, SpiderFoot | MISP, OpenCTI       | Python, Bash      | Wireshark, Splunk   |
-| Shodan, TheHarvester| STIX/TAXII          | Pandas, Requests  | Git, Docker, Linux  |
-| Recon-ng            | Threat Actor Tracking| Jupyter Notebooks | ELK Stack           |
-
----
-
-## 🚀 Featured Projects
-
-### [OSINT Project: Finding a Person of Interest](https://preciousvincentct.medium.com/finding-a-person-of-interest-f6a5fc24c909)  
-A detailed OSINT investigation showcasing techniques to identify and track persons of interest using open-source tools and data correlation.
-
-### [SOC Project - Phishing Scanning Tool](https://x.com/ctprecious/status/1939118244356337762?s=46)  
-Developed a phishing scanning tool to detect and analyze phishing attempts, improving incident response capabilities in a SOC environment.
-
-### [Python Security Script - Password Assessment](https://x.com/ctprecious/status/1939063970691768732?s=46)  
-A Python script designed to assess password strength and security, helping organizations enforce better password policies.
+- Lead and execute OSINT investigations — analyzing digital footprints, tracking threat actors, and uncovering exploitable patterns.
+  
+- Build open-source tools to automate reconnaissance, metadata extraction, dark web crawling, and phishing awareness.
+  
+- Collaborate with cybersecurity communities to share insights, contribute to toolsets, and assist organizations in hardening their posture.
+  
+- Continuously learn and adapt — from social-media intelligence techniques to darknet infrastructure mapping and advanced reconnaissance methodologies.
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects Snapshot 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
+Here are some of the key public repositories (click to explore):  
 
----
+| Project | Focus | Highlights |
+|--------|--------|-----------|
+| **WebRecon Pro** – reconnaissance tool collection | Automated web OSINT tooling | Designed for security researchers & pentesters. |
+| **Phisher** – awareness & education platform | Phishing simulation & training | Build awareness among organisations. |
+| **DeepSearch-** – footprint & Google dork driven OSINT | Digital footprint + dorking automation | Python-based with advanced search operators. |
+| **OSINT-INVESTIGATION-LAB-** – hands-on OSINT training platform | Interactive learning & scenario-based OSINT | Ideal for analysts building skills. |
+| **Twitter_Sleuth** – Twitter account & activity analysis | OSINT module for social media intelligence | Legitimate methods for analysing Twitter profiles. |
+| **GITRECON** – GitHub reconnaissance tool | GitHub footprint analysis and security assessment | Python-based; targets GitHub code, assets, and data exposure. |
+| **DARKWEB_CRAWLER** – dark web OSINT utility | Ethical dark-web reconnaissance & crawling | Tor-based, rate-limited, designed for threat intelligence. |
+| **NAIJA-OSINT-SOCIAL-SEARCH** – localised OSINT tool for Nigeria | Username scanning across 50+ social platforms | Tailored to Nigeria-specific social media landscapes. |
+| **VULSCANNER** – Web application security scanner | Automated web-app scanning and vulnerability discovery | Multi-faceted, designed for pen testers and dev teams. |
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="http://linkedin.com/in/tech-enthusiast-669279263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/CtPrecious" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:preciousvincentct@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+> *Note: These are representative highlights — I maintain 20+ active repositories covering a range of OSINT and cyber research domains.*
 
 ---
 
-> _"Security is not a product, but a process."_ – Bruce Schneier
+## Technical & Tooling Stack
+
+- **Languages:** Python (primary), Bash / Shell scripting
+  
+- **OSINT & Recon Tools:** Google dorks, social media mining, metadata extraction, dark/mixed web crawling
+  
+- **Security Tools:** Web-app scanning, vulnerability analysis, GitHub code exposure assessment
+  
+- **Platforms & Environments:** Linux (Kali / Parrot), Tor / Onion networks, GitHub, Cloud hosting
+  
+- **Collaborative Tools:** Git, GitHub Actions (for CI/automation), community repositories & open-source contributions  
 
 ---
 
-<!-- Optional Cybersecurity GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4s2oY1nX9R6BW/giphy.gif" alt="Cybersecurity Animation" width="300" />
-</p>
+## Why My Work Matters  
 
+In the rapidly evolving cybersecurity landscape:  
+
+- Organisations increasingly face threats from exposed infrastructure, poor reconnaissance hygiene, and social-engineered vectors.
+  
+- Threat Intelligence and OSINT is no longer just an academic exercise — it’s a first line of defence and proactive intelligence mechanism.
+  
+- By building and sharing tools, I **enable communities** to detect, analyse and mitigate threats before they become breaches.
+
+---
+
+## Where to Connect  
+
+- GitHub: [https://github.com/techenthusiast167](https://github.com/techenthusiast167)
+  
+- LinkedIn: [linkedin.com/in/tech-enthusiast-669279263](http://linkedin.com/in/tech-enthusiast-669279263)
+  
+- X (formerly Twitter): [@D4rk_Intel](https://x.com/D4rk_Intel)
+
+---
+
+## Let’s Collaborate 
+
+Whether you’re looking for a dedicated OSINT research collaborator, tool builder, or a cybersecurity advisor — I’m ready. Drop me a message and let's explore how we can elevate security through open source intelligence.
+
+---
+
+### Let’s make intelligence accessible, proactive and impactful.  
