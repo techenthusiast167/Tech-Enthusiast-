@@ -54,15 +54,17 @@ With a deep focus on **threat intelligence**, **geolocation analysis**, and **CT
 ## Technical Arsenal  
 
 **Languages:** Python • Bash • PowerShell  
-**Domains:** OSINT • Threat Intelligence • Cyber Recon • Digital Forensics  
-**Tools:** SpiderFoot • Maltego • Shodan • theHarvester • Google Dorking • FOCA • Tor • AnyRun  
+**Domains:** OSINT • Threat Intelligence 
+
+**Tools:** SpiderFoot • Maltego • Shodan • theHarvester • Google Dorking • FOCA • Tor • AnyRun, etc   
+
 **Environments:** Kali Linux • Parrot OS • VirtualBox • GitHub Actions • Jupyter  
 
 ---
 
 ## My Vision  
 
-> “The power of OSINT lies not just in finding data, but in connecting dots that others overlook.”  
+“The power of OSINT lies not just in finding data, but in connecting dots that others overlook.”  
 
 I believe cybersecurity begins with **awareness** and **visibility**.  
 Through research, public challenges, and open-source tooling, my mission is to make **intelligence accessible**, **educational**, and **action-driven** for everyone in the cyber community.
