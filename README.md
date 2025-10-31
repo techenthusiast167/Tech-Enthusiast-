@@ -1,4 +1,4 @@
-# Hi, I’m D4rk_Intel - **techenthusiast167 
+# Hi, I’m D4rk_Intel 
 
 ### Cybersecurity | OSINT & Threat Intelligence Researcher  
 
