@@ -66,7 +66,8 @@ With a deep focus on **threat intelligence**, **geolocation analysis**, and **CT
 
 “The power of OSINT lies not just in finding data, but in connecting dots that others overlook.”  
 
-I believe cybersecurity begins with **awareness** and **visibility**.  
+I believe cybersecurity begins with **awareness** and **visibility**. 
+
 Through research, public challenges, and open-source tooling, my mission is to make **intelligence accessible**, **educational**, and **action-driven** for everyone in the cyber community.
 
 ---
